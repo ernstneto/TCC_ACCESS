@@ -1,1 +1,1 @@
-tcp://auavn-179-218-10-56.a.free.pinggy.link:42539
+tcp://tucvm-179-218-10-56.a.free.pinggy.link:34915
