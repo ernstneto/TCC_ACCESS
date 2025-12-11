@@ -1,1 +1,1 @@
-https://merchandise-concerned-antibodies-tower.trycloudflare.com
+https://api.trycloudflare.com
